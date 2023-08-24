@@ -49,7 +49,5 @@ Zastąp 'TWOJE_HASLO' swoim rzeczywistym hasłem dostępu do bazy danych Postgre
 	!pip install psycopg2
 	```
 
-4. W pliku `run_script.ipynb` wykonaj wszystkie kroki opisane w notatniku, aby uruchomić skrypt.
-
-5. Postępuj zgodnie z instrukcjami i wykorzystaj plik `private.cfg` z poprawnie wprowadzonymi danymi dostępowymi do bazy danych.
+4. W pliku `run_script.ipynb` wykonaj wszystkie kroki opisane w notatniku, aby uruchomić skrypt. Postępuj zgodnie z instrukcjami i wykorzystaj plik `private.cfg` z poprawnie wprowadzonymi danymi dostępowymi do bazy danych.
 
