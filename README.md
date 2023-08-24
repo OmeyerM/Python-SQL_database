@@ -1,6 +1,6 @@
 # Instrukcja uruchomienia skryptu
 
-Ten plik README zawiera instrukcje dotyczące uruchomienia skryptu znajdującego się w tym repozytorium. Aby poprawnie uruchomić skrypt, postępuj zgodnie z poniższymi krokami:
+Plik README zawiera instrukcje dotyczące uruchomienia skryptu znajdującego się w tym repozytorium. Aby poprawnie uruchomić skrypt, postępuj zgodnie z poniższymi krokami:
 
 ## Wymagania wstępne
 
